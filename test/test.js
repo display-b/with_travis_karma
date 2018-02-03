@@ -1,6 +1,6 @@
 // require('should');
 // var doSomething = require('action');
-
+ 
 
 describe('TestAction', function() {
   describe('#doSomething()', function() {
